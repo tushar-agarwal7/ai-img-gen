@@ -66,7 +66,7 @@ export function Upload() {
         </div>
         <div className="bg-[#374151] dark:bg-[#374151] rounded-md shadow-lg overflow-hidden mt-8">
           <img
-            src={image ? image : "/robo.jpg"}
+            src={image ? image : "/ai-img.webp"}
             alt="Generated Image"
             className="w-full h-1/3 object-cover"
           />
